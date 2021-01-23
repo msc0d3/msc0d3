@@ -18,11 +18,11 @@ I am a FreeLancer Developer, .NET programming, I love to learn and contribute in
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
+  <a href="https://tienichmmo.net/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=msc0d3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/msc0d3)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=msc0d3&color=blue)
   ----
   
 </details>
