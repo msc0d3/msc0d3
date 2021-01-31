@@ -8,11 +8,6 @@
 
 I am a FreeLancer Developer, .NET programming, I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning Functional Programming and Knowledge Graphs
-- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 📫 How to reach me: Use any of the [badges](#Hi-there-I'm-Nguyen-Dac-Tai-) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: không làm mà đòi có ăn thì chỉ ăn đầu búa nhá.., ăn cám..
 
 <details>
