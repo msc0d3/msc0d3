@@ -1,4 +1,4 @@
-### Hi there, I'm Nguyen Dac Tai <img src="https://verified-badge.vedb.me/wp-content/uploads/2020/07/Facebook-Logo-Verified-Badge-PNG.png" align="center" height="16" width="16"/>
+### Hi there, I'm Nguyen Dac Tai <img src="https://verified-badge.vedb.me/wp-content/uploads/2020/07/Facebook-Logo-Verified-Badge-PNG.png" height="18" width="18"/>
 
 [![Gmail Badge](https://img.shields.io/badge/-tnstudio16201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tnstudio16201@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@msc0d3-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/msc0d3 "Contact on Telegram")
