@@ -1,4 +1,4 @@
-### Hi there, I'm Nguyen Dac Tai <img src="https://bio.linkcdn.to/instabio.cc/static/images/back/ins_icon.png" align="center" height="18" width="18"/>
+### Hi there, I'm Nguyen Dac Tai <img src="https://bio.linkcdn.to/instabio.cc/static/images/back/tiktok_icon.png" align="center" height="18" width="18" data-canonical-src="https://bio.linkcdn.to/instabio.cc/static/images/back/ins_icon.png" style="max-width: 100%; position: relative; left: 1px; top: -2px; transition: none 0s ease 0s; cursor: move;" data-selected="true" data-label-id="0">
 
 [![Gmail Badge](https://img.shields.io/badge/-tnstudio16201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tnstudio16201@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@msc0d3-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/msc0d3 "Contact on Telegram")
