@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-tnstudio16201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tnstudio16201@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@msc0d3-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/msc0d3 "Contact on Telegram")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/nguyen.dactaiqn "Connect on Facebook")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100074234448092 "Connect on Facebook")
 ![Profile Views](https://komarev.com/ghpvc/?username=msc0d3&color=blue)
 <a href="https://tienichmmo.net"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="300" /></a>
 
