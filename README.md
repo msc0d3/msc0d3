@@ -1,8 +1,6 @@
-### Hi there, I'm Nguyen Dac Tai <img src="https://cdn-icons-png.flaticon.com/128/6270/6270515.png" align="bottom" height="20" width="20" style="max-width: 100%; position: relative; left: 1px; top: -50px;">
+### Hi there, I'm msc0d3 <img src="https://cdn-icons-png.flaticon.com/128/6270/6270515.png" align="bottom" height="20" width="20" style="max-width: 100%; position: relative; left: 1px; top: -50px;">
 
-[![Gmail Badge](https://img.shields.io/badge/-tnstudio16201@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tnstudio16201@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@msc0d3-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/msc0d3 "Contact on Telegram")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100074234448092 "Connect on Facebook")
 ![Profile Views](https://komarev.com/ghpvc/?username=msc0d3&color=blue)
 <a href="https://tienichmmo.net"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="300" /></a>
 
