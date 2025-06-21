@@ -1,4 +1,6 @@
-### Hi there, I'm msc0d3 <img src="https://cdn-icons-png.flaticon.com/128/6270/6270515.png" align="bottom" height="20" width="20" style="max-width: 100%; position: relative; left: 1px; top: -50px;">
+<!--### Hi there, I'm msc0d3 <img src="https://cdn-icons-png.flaticon.com/128/6270/6270515.png" align="bottom" height="20" width="20" style="max-width: 100%; position: relative; left: 1px; top: -50px;">-->
+### Hi there, I'm msc0d3 <img src="https://cdn-icons-png.flaticon.com/128/6270/6270515.png" height="20" width="20" style="vertical-align: text-bottom;">
+
 
 [![Telegram Badge](https://img.shields.io/badge/-@msc0d3-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/msc0d3 "Contact on Telegram")
 ![Profile Views](https://komarev.com/ghpvc/?username=msc0d3&color=blue)
@@ -19,7 +21,6 @@ I am a FreeLancer Developer, .NET programming, I love to learn and contribute in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msc0d3&layout=compact&theme=dark)](https://github.com/msc0d3/msc0d3)-->
 
 ### My Github Stats
-
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=msc0d3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/msc0d3)
 
 ### Design
