@@ -6,7 +6,7 @@
 
 I am a FreeLancer Developer, .NET programming, I love to learn and contribute in any and every possible way.
 
-- 👾 Fun fact: không làm mà đòi có ăn thì chỉ ăn đầu búa nhá.., ăn cám..
+
 <!--
  <details>
   <summary>Top Languages :computer:</summary>
@@ -15,8 +15,8 @@ I am a FreeLancer Developer, .NET programming, I love to learn and contribute in
   ----
   
 </details> -->
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msc0d3&layout=compact&theme=dark)](https://github.com/msc0d3/msc0d3)
+<!--### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msc0d3&layout=compact&theme=dark)](https://github.com/msc0d3/msc0d3)-->
 
 ### My Github Stats
 
@@ -27,6 +27,18 @@ I am a FreeLancer Developer, .NET programming, I love to learn and contribute in
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### Skills
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### IDEs/Editors
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
